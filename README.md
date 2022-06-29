@@ -22,6 +22,10 @@ add steps to install node
 
 To start up Node.js and PostgreSQL on system startup, you must do the following:
 
+```
+add any steps to configure node and postgres
+```
+
 ## Express
 
 ```
