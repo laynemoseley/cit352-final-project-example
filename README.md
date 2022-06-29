@@ -7,7 +7,7 @@ PERN stands for PostgreSQL, Express, React and Node.js. This tutorial will show 
 PostgreSQL is available to install through dnf:
 
 ```
-_insert command to install postgres_
+add steps to install postgres
 ```
 
 ## Node.js Installation
@@ -15,11 +15,17 @@ _insert command to install postgres_
 Node.js can be insalled like this:
 
 ```
-_insert command to install node_
+add steps to install node
 ```
 
 ## Configuration
 
 To start up Node.js and PostgreSQL on system startup, you must do the following:
+
+## Express
+
+```
+add steps to install express and make a basic web server
+```
 
 ![example](example.gif)
