@@ -21,3 +21,5 @@ _insert command to install node_
 ## Configuration
 
 To start up Node.js and PostgreSQL on system startup, you must do the following:
+
+![example](example.gif)
