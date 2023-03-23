@@ -12,7 +12,7 @@ add steps to install postgres
 
 ## Node.js Installation
 
-Node.js can be insalled like this:
+Node.js can be installed like this:
 
 ```
 add steps to install node
